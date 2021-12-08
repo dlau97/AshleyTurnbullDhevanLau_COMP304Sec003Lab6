@@ -9,6 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AshleyTurnbullDhevanLau_COMP304Sec003_Lab6_Ex2">
+        <service android:name=".SimpleService" />
         <activity
             android:name=".ServicesActivity"
             android:exported="true">
